@@ -6,5 +6,7 @@
     <color name="colormain">#10528B</color>
     <color name="teal">#21768F</color>
     <color name="white">#FFFFFF</color>
-
+    <color name="transparent">#00000000</color>
+    <color name="loginback">#dadada</color>
+    <color name="remember_me">#6e6e6e</color>
 </resources>
